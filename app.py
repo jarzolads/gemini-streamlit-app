@@ -84,6 +84,7 @@ st.markdown(
 with st.sidebar:
     st.markdown("### ⚙️ BioSense AI")
     st.caption("Interfaz tipo chat con Gemini, pensada para bioseñales / EIS / troponina.")
+    st.caption("Diseñada para la tesis doctoral de Fausto Díaz Sánchez") 
     st.markdown(f"- **Modelo:** `{MODEL_NAME}`")
     st.markdown(f"- **Modo:** `Chat con memoria (sesión)`")
 
